@@ -1,0 +1,30 @@
+{
+  "packageUUID": "4ae67fc3-7bb1-4a25-9d15-9079d660191d",
+  "moduleUUID": "07b296bb-b5a3-4208-a615-a4035dd3385c",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.1",
+    "name": "GetLimitedUsers1",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {
+      "limit": "3"
+    },
+    "moduleInputs": {
+      "uuohfvgcnu": {
+        "id": "uuohfvgcnu",
+        "label": "limit",
+        "propertyName": "inputs.limit",
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "3"
+      }
+    },
+    "jsonPathKeys": [],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "id": "Page1_GetLimitedUsers1",
+  "deleted": false,
+  "gitSyncId": "668061ff5b5620501f8a3c82_5e6ec6d1-e43c-4906-9b97-4c538f79838b"
+}
