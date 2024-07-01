@@ -3,7 +3,7 @@
   "moduleUUID": "07b296bb-b5a3-4208-a615-a4035dd3385c",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "name": "GetLimitedUsers1",
     "contextType": "PAGE",
     "pageId": "Page1",
