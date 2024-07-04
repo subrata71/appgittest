@@ -8,11 +8,10 @@
     "contextType": "PAGE",
     "inputs": {},
     "moduleInputs": {
-      "uivnpwwjve": {},
       "uuohfvgcnu": {}
     },
     "name": "GetLimitedUsers1",
     "pageId": "Page1",
-    "version": "0.0.17"
+    "version": "0.0.3"
   }
 }
