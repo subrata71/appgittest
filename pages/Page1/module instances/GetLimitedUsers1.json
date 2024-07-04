@@ -7,13 +7,14 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "limit": "3"
+      "dummy": "Hello world"
     },
     "moduleInputs": {
+      "uivnpwwjve": {},
       "uuohfvgcnu": {}
     },
     "name": "GetLimitedUsers1",
     "pageId": "Page1",
-    "version": "0.0.1"
+    "version": "0.0.13"
   }
 }
