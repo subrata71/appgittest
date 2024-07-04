@@ -1,18 +1,14 @@
 {
-  "moduleInstanceId": "Page1_JSModule11",
+  "gitSyncId": "668061ff5b5620501f8a3c82_131d19a5-d770-474b-b1b6-d56f34a129ba",
+  "id": "Page1__$JSModule11$_JSModule1",
   "isPublic": true,
+  "moduleInstanceId": "Page1_JSModule11",
   "rootModuleInstanceId": "Page1_JSModule11",
   "unpublishedCollection": {
+    "contextType": "PAGE",
     "name": "_$JSModule11$_JSModule1",
     "pageId": "Page1",
-    "contextType": "PAGE",
     "pluginId": "js-plugin",
-    "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "userPermissions": []
-  },
-  "id": "Page1__$JSModule11$_JSModule1",
-  "deleted": false,
-  "gitSyncId": "668061ff5b5620501f8a3c82_131d19a5-d770-474b-b1b6-d56f34a129ba"
+    "pluginType": "JS"
+  }
 }
