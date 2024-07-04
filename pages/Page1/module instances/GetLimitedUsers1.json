@@ -6,15 +6,13 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {
-      "dummy": "Hello world"
-    },
+    "inputs": {},
     "moduleInputs": {
       "uivnpwwjve": {},
       "uuohfvgcnu": {}
     },
     "name": "GetLimitedUsers1",
     "pageId": "Page1",
-    "version": "0.0.15"
+    "version": "0.0.17"
   }
 }
