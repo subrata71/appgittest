@@ -1,7 +1,6 @@
 {
   "moduleName": "GetLimitedUsers",
   "moduleUUID": "07b296bb-b5a3-4208-a615-a4035dd3385c",
-  "packageName": "App Git Test Pkg",
   "packageUUID": "4ae67fc3-7bb1-4a25-9d15-9079d660191d",
-  "version": "0.0.15"
+  "version": "0.0.17"
 }
